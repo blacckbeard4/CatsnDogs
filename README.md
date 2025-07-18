@@ -15,12 +15,16 @@ Develop a binary classifier that assigns a probability score to each test image,
 
 ### 📷 Sample Training Images
 
-<p align="center">
-  <img src="https://i.imgur.com/gO27TR0.png" width="200">
-  <img src="https://i.imgur.com/a7hGBaF.png" width="200">
-  <img src="https://i.imgur.com/0c9AhVr.png" width="200">
-  <img src="https://i.imgur.com/0pgECPx.png" width="200">
-</p>
+<img width="332" height="242" alt="image" src="https://github.com/user-attachments/assets/96dcbf3b-d18b-4894-950b-b3293d11c23d" /> 
+<img width="332" height="242" alt="image" src="https://github.com/user-attachments/assets/18017e0d-2e21-48b7-8d29-37ee0557a7ef" />
+<img width="332" height="242" alt="image" src="https://github.com/user-attachments/assets/eb3f31fa-b13f-4eba-bbb0-55eaff28d4e4" /> 
+<img width="332" height="242" alt="image" src="https://github.com/user-attachments/assets/75cfe60a-9e14-4fd5-a09d-1b8b11422d75" />
+<img width="332" height="242" alt="image" src="https://github.com/user-attachments/assets/38ecf6ab-c06a-47b5-9115-60e6aa60b20b" />
+<img width="332" height="242" alt="image" src="https://github.com/user-attachments/assets/7ee65c37-21f9-45da-ba31-9d172652276a" />
+
+
+
+
 
 ## 🧠 Approach
 
